@@ -9,5 +9,5 @@ You want your comment to reach other people... difficult!
 
 Using Chime Chat you can add your thoughts on the actual website space and other users and reply or add their own comments.
 
-![alt text]([http://url/to/img.png](https://www.entertomyworld.com/images/landing1.png)https://www.entertomyworld.com/images/landing1.png)
+![alt text]([https://www.entertomyworld.com/images/landing1.png)https://www.entertomyworld.com/images/landing1.png)]
 
