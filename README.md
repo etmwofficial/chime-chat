@@ -9,4 +9,5 @@ You want your comment to reach other people... difficult!
 
 Using Chime Chat you can add your thoughts on the actual website space and other users and reply or add their own comments.
 
+![alt text]([http://url/to/img.png](https://github.com/etmwofficial/chime-chat/blob/main/landing1.png?raw=true)https://github.com/etmwofficial/chime-chat/blob/main/landing1.png?raw=true)
 
