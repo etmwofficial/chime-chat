@@ -11,9 +11,14 @@ Using Chime Chat you can add your thoughts on the actual website space and other
 
 ![](https://www.entertomyworld.com/images/landing1.png)
 
-## Post in websites you are not allowed to add comments
+# Post in websites you are not allowed to add comments
 Many websites today block access if you are not paying or if the user didn't accept you as part of the group.
 
 Post anyways!
 
 ![](https://github.com/etmwofficial/chime-chat/blob/2b7620c34923fe1787728547ca398ca677a8d5dd/instagram.png)
+
+# Search users
+With Chime Chat you can search other users and follow them
+
+![](https://github.com/etmwofficial/chime-chat/blob/0c1a414d98145d062c645281d090459adcaceb7a/search-users.png)
