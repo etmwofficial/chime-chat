@@ -9,7 +9,7 @@ You want your comment to reach other people... difficult!
 
 Using Chime Chat you can add your thoughts on the actual website space and other users and reply or add their own comments.
 
-![](https://www.entertomyworld.com/images/landing1.png)
+![](https://github.com/etmwofficial/chime-chat/blob/0d77bbe01e7bf92afd5e19956c9074cf62c2ca3d/landing1.png)
 
 # Post in websites you are not allowed to add comments
 Many websites today block access if you are not paying or if the user didn't accept you as part of the group.
