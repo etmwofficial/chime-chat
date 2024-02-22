@@ -22,3 +22,12 @@ Post anyways!
 With Chime Chat you can search other users and follow them
 
 ![](https://github.com/etmwofficial/chime-chat/blob/0c1a414d98145d062c645281d090459adcaceb7a/search-users.png)
+
+# See what others are posting
+
+![](https://github.com/etmwofficial/chime-chat/blob/af7c5ee509a26b5a06e572e7a98e7d58f8acd433/see-what-others-are-posting.png)
+
+# Want to discover new websites? 
+See where other users are posting their comments.
+
+![](https://github.com/etmwofficial/chime-chat/blob/af7c5ee509a26b5a06e572e7a98e7d58f8acd433/latest-messages.png)
