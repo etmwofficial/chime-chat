@@ -1,6 +1,8 @@
 # Chime Chat
 Chime Chat is a Chrome (Brave, etc) Extension for adding comments and having a conversation on ANY website
 
+www.EnterToMyWorld.com
+
 Let's say you want to share your opinion about an article on the Web with the world. 
 You first think of Twitter or any social media, post the URL and expect a conversation.
 
